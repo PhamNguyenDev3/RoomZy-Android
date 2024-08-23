@@ -1,0 +1,500 @@
+{
+  "Room": {
+    "room01": {
+      "Address": "Số 10, Đường Kim Mã, Phường Ngọc Khánh, Quận Ba Đình, Thành phố Hà Nội",
+      "Id": "KSQ101",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR1%2Fa11.jpg?alt=media&token=0dfdea6f-e901-40e3-8949-2651cd108e0c",
+      "LocationId": "LOC02",
+      "Name": "DAZI SIGNATURE HOTEL",
+      "Phone": "1800 6014",
+      "Price": 500000,
+      "Rate": 3,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR1%2Fa12.jpg?alt=media&token=414f5fe4-718d-4a50-a31d-9ef776ffcb98",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR1%2Fa13.jpg?alt=media&token=e364ed27-44b0-4043-b34a-d2109b0822d3",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR1%2Fa14.jpg?alt=media&token=146199e9-059a-43e8-a227-018a3b197338"
+      ],
+      "SubRoom": [
+        "PH01",
+        "PH02",
+        "PH03",
+        "PH04"
+      ],
+      "Type": "Vip",
+      "categoriesId": "CAT01",
+      "description": "loremLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the"
+    },
+    "room02": {
+      "Address": "Số 45, Đường Láng Hạ, Phường Thành Công, Quận Ba Đình, Thành phố Hà Nội",
+      "Id": "KSQ102",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR2%2Fa21.jpg?alt=media&token=9967421b-89bf-4a24-9d19-0cb25fb7d853",
+      "LocationId": "LI01",
+      "Name": "LAS VEGAS",
+      "Phone": "1800 6042",
+      "Price": 700000,
+      "Rate": 4,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR2%2Fa22.jpg?alt=media&token=e178decd-35bc-4aeb-8e9f-acca42692dd9",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR2%2Fa23.jpg?alt=media&token=6848bca9-dcaa-46ba-88b4-e4bffbae9bb0",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR2%2Fa24.jpg?alt=media&token=1ddc73f3-fb38-4c7b-9629-14529d113917"
+      ],
+      "SubRoom": [
+        "PH05",
+        "PH06",
+        "PH07",
+        "PH08"
+      ],
+      "Type": "VIP 1",
+      "categoriesId": "CAT01",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    },
+    "room03": {
+      "Address": "Số 20, Đường Trần Duy Hưng, Phường Trung Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+      "Id": "KSQ103",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR3%2Fa31.jpg?alt=media&token=7fa06917-289c-41d5-b02e-2fec701d004b",
+      "LocationId": "LOC02",
+      "Name": "LAS NATA",
+      "Phone": "1800 6075",
+      "Price": 1000000,
+      "Rate": 5,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR3%2Fa32.jpg?alt=media&token=85bb83b5-2bc2-4a35-a88f-7f5d25d5757b",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR3%2Fa33.jpg?alt=media&token=90a206d1-b76e-45c5-b469-7b75e5c52dae",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR3%2Fa34.jpg?alt=media&token=4f83cc73-c3d6-4f5d-8d17-362eeb5f3083"
+      ],
+      "SubRoom": [
+        "PH09",
+        "PH10",
+        "PH11",
+        "PH12"
+      ],
+      "Type": "VIP 3",
+      "categoriesId": "CAT03",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    "room04": {
+      "Address": "Số 35, Đường Xuân Thuỷ, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+      "Id": "KSQ104",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR4%2Fa41.jpg?alt=media&token=34a31074-c3ba-4f6f-83c1-5a1220dbd850",
+      "LocationId": "LOC02",
+      "Name": "LAS ESU",
+      "Phone": "1800 6019",
+      "Price": 2000000,
+      "Rate": 5,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR4%2Fa42.jpg?alt=media&token=d2caba6b-2cb7-4656-b93b-94f9fee5bfbc",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR4%2Fa43.jpg?alt=media&token=f1ea957d-ded8-4f75-b648-154a6f0371a9",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR4%2Fa44.jpg?alt=media&token=3259cbac-2742-4028-afab-6a32694fc36d"
+      ],
+      "SubRoom": [
+        "PH13",
+        "PH14",
+        "PH15",
+        "PH16"
+      ],
+      "Type": "VIP 2",
+      "categoriesId": "CAT02",
+      "description": "Dummy text ever since the 1500s."
+    },
+    "room05": {
+      "Address": "Số 50, Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+      "Id": "KSQ105",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR5%2Fa51.jpg?alt=media&token=ebfa1c19-356b-4813-bed1-d161fa0a673e",
+      "LocationId": "LOC01",
+      "Name": "OCEAN VIEW HOTEL",
+      "Phone": "1800 6052",
+      "Price": 800000,
+      "Rate": 4,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR5%2Fa52.jpg?alt=media&token=c23e6405-705e-4f71-9573-bd0d7527665c",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR5%2Fa53.jpg?alt=media&token=d178c86d-3c26-4b0b-b1ac-700a56a87738",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR5%2Fa54.jpg?alt=media&token=dcfca8e4-b4d5-42a6-bd7e-129dc38ed1fb"
+      ],
+      "SubRoom": [
+        "PH17",
+        "PH18",
+        "PH19",
+        "PH20"
+      ],
+      "Type": "VIP 1",
+      "categoriesId": "CAT01",
+      "description": "Text of the printing and typesetting industry."
+    },
+    "room06": {
+      "Address": "Số 123, Đường Lê Lợi, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh",
+      "Id": "KSQ106",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR6%2Fa61.jpg?alt=media&token=6ed5c806-9dd0-452d-bd33-2e9724dd5946",
+      "LocationId": "LOC01",
+      "Name": "CITY LIGHT HOTEL",
+      "Phone": "1800 6084",
+      "Price": 900000,
+      "Rate": 4,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR6%2Fa62.jpg?alt=media&token=f0b57ebc-db40-4856-b96f-cc64a50ace1e",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR6%2Fa63.jpg?alt=media&token=e25fd96e-f417-45ea-aa5d-a691f759358e",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR6%2Fa64.jpg?alt=media&token=ccb699fa-34d5-423f-ad7e-6b936d31c66a"
+      ],
+      "SubRoom": [
+        "PH21",
+        "PH22",
+        "PH23",
+        "PH24"
+      ],
+      "Type": "VIP 2",
+      "categoriesId": "CAT02",
+      "description": "Industry's standard dummy text ever since the 1500s."
+    },
+    "room07": {
+      "Address": "Số 75, Đường Hai Bà Trưng, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+      "Id": "KSQ107",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR7%2Fa71.jpg?alt=media&token=c8150636-887f-40b9-a437-b1486b753c97",
+      "LocationId": "LOC01",
+      "Name": "SUNRISE HOTEL",
+      "Phone": "1800 6023",
+      "Price": 1000000,
+      "Rate": 5,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR7%2Fa72.jpg?alt=media&token=0ffc5734-46ff-4556-8c8d-9f5e47cef9b5",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR7%2Fa73.jpg?alt=media&token=239bd131-2f6b-4bd7-a1a0-cb866c110db1",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR7%2Fa74.jpg?alt=media&token=a2248581-3423-4acf-b74a-bfeb23fbeb24"
+      ],
+      "SubRoom": [
+        "PH25",
+        "PH26",
+        "PH27",
+        "PH28"
+      ],
+      "Type": "VIP 3",
+      "categoriesId": "CAT03",
+      "description": "Lorem Ipsum is simply dummy text."
+    },
+    "room08": {
+      "Address": "Số 10, Đường Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh",
+      "Id": "KSQ108",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR8%2Fa81.jpg?alt=media&token=f8a8ea02-9a94-4914-be83-0e5576b01dbd",
+      "LocationId": "LOC01",
+      "Name": "MOONLIGHT HOTEL",
+      "Phone": "1800 6053",
+      "Price": 750000,
+      "Rate": 4,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR8%2Fa82.jpg?alt=media&token=19b71cb5-f35e-4889-9e5a-ffbc75e71268",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR8%2Fa83.jpg?alt=media&token=9a96a427-e3f3-4d8a-bf70-56538ffb1e7e",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR8%2Fa84.jpg?alt=media&token=940e99f4-bdca-4f11-895c-efd49cc0eb0c"
+      ],
+      "SubRoom": [
+        "PH29",
+        "PH30",
+        "PH31",
+        "PH32"
+      ],
+      "Type": "VIP 1",
+      "categoriesId": "CAT01",
+      "description": "Simply dummy text of the printing and typesetting industry."
+    },
+    "room09": {
+      "Address": "Số 25, Đường Bạch Đằng, Phường Hải Châu 1, Quận Hải Châu, Thành phố Đà Nẵng",
+      "Id": "KSQ109",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR9%2Fa91.jpg?alt=media&token=4df90860-b821-4a03-885e-39bdbb781cca",
+      "LocationId": "LOC01",
+      "Name": "RIVER VIEW HOTEL",
+      "Phone": "1800 6092",
+      "Price": 850000,
+      "Rate": 4,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR9%2Fa92.jpg?alt=media&token=81ae3c33-eccd-487d-803f-b096456db261",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR9%2Fa93.jpg?alt=media&token=f9b86a60-4fb7-40cc-8b11-43be02c4f24b",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR9%2Fa94.jpg?alt=media&token=0918726a-1111-4b78-bc78-2835bf808d56"
+      ],
+      "SubRoom": [
+        "PH33",
+        "PH34",
+        "PH35",
+        "PH36"
+      ],
+      "Type": "VIP 2",
+      "categoriesId": "CAT02",
+      "description": "Lorem Ipsum is simply dummy text of the printing industry."
+    },
+    "room10": {
+      "Address": "Số 18, Đường 2 Tháng 9, Phường Hoà Cường Bắc, Quận Hải Châu, Thành phố Đà Nẵng",
+      "Id": "KSQ110",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR10%2Fa101.jpg?alt=media&token=e645ea3a-1103-4fb0-b3bf-7b753f3c6ef6",
+      "LocationId": "LOC03",
+      "Name": "BEACHFRONT HOTEL",
+      "Phone": "1800 6031",
+      "Price": 950000,
+      "Rate": 4,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR10%2Fa102.jpg?alt=media&token=53276442-f887-41d2-9372-d1f60c4c81b4",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR10%2Fa103.jpg?alt=media&token=d2a7c565-0765-4a2e-bba6-7048098297c8",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR10%2Fa104.jpg?alt=media&token=5dda44db-d717-49ee-84e9-71323dec79f6"
+      ],
+      "SubRoom": [
+        "PH37",
+        "PH38",
+        "PH39",
+        "PH40"
+      ],
+      "Type": "VIP 3",
+      "categoriesId": "CAT03",
+      "description": "Lorem Ipsum has been the industry's standard dummy text."
+    },
+    "room11": {
+      "Address": "Số 30, Đường Trần Phú, Phường Hải Châu 1, Quận Hải Châu, Thành phố Đà Nẵng",
+      "Id": "KSQ111",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR11%2Fa111.jpg?alt=media&token=f1e82c48-d2ea-4dca-a2d0-118b2ce6c698",
+      "LocationId": "LOC03",
+      "Name": "MOUNTAIN VIEW HOTEL",
+      "Phone": "1800 6054",
+      "Price": 1050000,
+      "Rate": 5,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR11%2Fa112.jpg?alt=media&token=416adc11-9ec3-4dfe-bb60-69c2e43aad35",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR11%2Fa113.jpg?alt=media&token=c029469f-d22b-432f-a000-0a88ffd05ede",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR11%2Fa114.jpg?alt=media&token=0a64536d-f58c-4659-a3e4-6f987d1677fa"
+      ],
+      "SubRoom": [
+        "PH41",
+        "PH42",
+        "PH43",
+        "PH44"
+      ],
+      "Type": "VIP 3",
+      "categoriesId": "CAT03",
+      "description": "Lorem Ipsum is simply dummy text of the printing."
+    },
+    "room12": {
+      "Address": "Số 15, Đường Nguyễn Văn Linh, Phường Nam Dương, Quận Hải Châu, Thành phố Đà Nẵng",
+      "Id": "KSQ112",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR15%2Fa151.jpg?alt=media&token=b1463edc-32ac-45d7-ba8d-ec66e44205e7",
+      "LocationId": "LOC03",
+      "Name": "GOLDEN HOTEL",
+      "Phone": "1800 6097",
+      "Price": 1100000,
+      "Rate": 5,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR15%2Fa152.jpg?alt=media&token=cd9d3d11-9fd9-40d0-907c-aa70f62872bb",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR15%2Fa153.jpg?alt=media&token=fb733873-44e1-4fe5-bc23-73c2ab877f6e",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR15%2Fa154.jpg?alt=media&token=3cd60325-f23e-48aa-8851-bf47766fe132"
+      ],
+      "SubRoom": [
+        "PH45",
+        "PH46",
+        "PH47",
+        "PH48"
+      ],
+      "Type": "VIP 2",
+      "categoriesId": "CAT02",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting."
+    },
+    "room13": {
+      "Address": "Số 1, Đường Trần Phú, Phường 1, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+      "Id": "KSQ113",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR13%2Fa131.jpg?alt=media&token=12cf3c2e-517d-4e84-85d4-f233ab81ca99",
+      "LocationId": "LOC04",
+      "Name": "SEA BREEZE HOTEL",
+      "Phone": "1800 6103",
+      "Price": 950000,
+      "Rate": 4,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR13%2Fa132.jpg?alt=media&token=e11bf11e-5142-404d-a4f7-6f97bb88a6ca",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR13%2Fa133.jpg?alt=media&token=cf75423c-e814-483e-a612-f311c987f546",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR13%2Fa134.jpg?alt=media&token=702dc386-9042-43fa-bcc8-9f0eb235d8d6"
+      ],
+      "SubRoom": [
+        "PH49",
+        "PH50",
+        "PH51",
+        "PH52"
+      ],
+      "Type": "VIP 1",
+      "categoriesId": "CAT01",
+      "description": "Lorem Ipsum is simply dummy text of the printing industry."
+    },
+    "room14": {
+      "Address": "Số 100, Đường Lê Hồng Phong, Phường 7, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+      "Id": "KSQ114",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR14%2Fa141.jpg?alt=media&token=ce6928d7-e0a8-493e-aede-b3be1c4b4d3e",
+      "LocationId": "LOC04",
+      "Name": "TROPICAL HOTEL",
+      "Phone": "1800 6125",
+      "Price": 1200000,
+      "Rate": 5,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR14%2Fa142.jpg?alt=media&token=763e0acc-7929-455e-b607-ada9c6a512ca",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR14%2Fa143.jpg?alt=media&token=36a2249d-9e47-45d0-bd78-111ccf2ac0cb",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR14%2Fa144.jpg?alt=media&token=09f5b17b-52b5-4dcc-960d-c5fabbe5322b"
+      ],
+      "SubRoom": [
+        "PH53",
+        "PH54",
+        "PH55",
+        "PH56"
+      ],
+      "Type": "VIP 2",
+      "categoriesId": "CAT02",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting."
+    },
+    "room15": {
+      "Address": "Số 50, Đường Võ Thị Sáu, Phường Thắng Tam, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+      "Id": "KSQ115",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR15%2Fa151.jpg?alt=media&token=b1463edc-32ac-45d7-ba8d-ec66e44205e7",
+      "LocationId": "LOC04",
+      "Name": "OCEAN BLUE HOTEL",
+      "Phone": "1800 6135",
+      "Price": 1250000,
+      "Rate": 5,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR15%2Fa152.jpg?alt=media&token=cd9d3d11-9fd9-40d0-907c-aa70f62872bb",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR15%2Fa153.jpg?alt=media&token=fb733873-44e1-4fe5-bc23-73c2ab877f6e",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR15%2Fa154.jpg?alt=media&token=3cd60325-f23e-48aa-8851-bf47766fe132"
+      ],
+      "SubRoom": [
+        "PH57",
+        "PH58",
+        "PH59",
+        "PH60"
+      ],
+      "Type": "VIP 2",
+      "categoriesId": "CAT02",
+      "description": "Lorem Ipsum is simply dummy text of the printing industry."
+    },
+    "room16": {
+      "Address": "Số 75, Đường Trương Công Định, Phường 3, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+      "Id": "KSQ116",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR16%2Fa161.jpg?alt=media&token=46aa9928-4e76-4b8e-95ed-ec75e23db9c8",
+      "LocationId": "LOC04",
+      "Name": "PEARL HOTEL",
+      "Phone": "1800 6104",
+      "Price": 1300000,
+      "Rate": 5,
+      "SubImage": [
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR16%2Fa162.jpg?alt=media&token=fd36713c-e2fe-4140-ab9b-2a3487d2c9da",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR16%2Fa163.jpg?alt=media&token=137c097f-7e12-40af-8f8a-5d4dd2bb5655",
+        "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR16%2Fa164.jpg?alt=media&token=48becb6c-5d27-447d-a88c-9e5fb8bf5b5a"
+      ],
+      "SubRoom": [
+        "PH61",
+        "PH62",
+        "PH63",
+        "PH64"
+      ],
+      "Type": "VIP 2",
+      "categoriesId": "CAT02",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+  },
+  "Users": {
+    "3XsN35waUESo9XEkNBAKcwR1DGI2": {
+      "email": "phamnguyenkali@gmail.com",
+      "name": "phamnguyen",
+      "online": false,
+      "profile": "default",
+      "userId": "3XsN35waUESo9XEkNBAKcwR1DGI2",
+      "user_type": "staff"
+    },
+    "6rrtek05boMNuTiSPhMX53psbsi2": {
+      "email": "nguyencoderlo@gmail.com",
+      "name": "phamnguyen",
+      "online": false,
+      "profile": "default",
+      "userId": "6rrtek05boMNuTiSPhMX53psbsi2",
+      "user_type": "staff"
+    },
+    "CmYY1Sq0EUahWEv4KABkqj3v8Wp1": {
+      "email": "nguyencoderlo@gmail.com",
+      "name": "phamnguyen",
+      "online": false,
+      "profile": "default",
+      "userId": "CmYY1Sq0EUahWEv4KABkqj3v8Wp1",
+      "user_type": "staff"
+    },
+    "Ey0biuuYERRtDb7oBSLMdAW0Jh72": {
+      "email": "phamnguyenkali@gmail.com",
+      "name": "phamnguyen",
+      "online": false,
+      "profile": "default",
+      "userId": "Ey0biuuYERRtDb7oBSLMdAW0Jh72",
+      "user_type": "staff"
+    },
+    "user_id_1": ""
+  },
+  "Voucher": {
+    "Voucher01": {
+      "GiaToiDa": 300000,
+      "GiamGia": "30%",
+      "Hinh": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/VOUCHER%2FDiscount%20Voucher%20Ticket%2010%25.jpg?alt=media&token=9f2f5d60-fd8c-407a-8191-52c96869cab0",
+      "MaVC": "VC01",
+      "MoTa": "Áp dụng cho khách hàng đặt phòng lần đầu tiên",
+      "TenVC": "Thành viên mới",
+      "ThoiHan": 30
+    },
+    "Voucher02": {
+      "GiaToiDa": 500000,
+      "GiamGia": "10%",
+      "Hinh": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/VOUCHER%2FDiscount%20Voucher%20Ticket%2015%25.jpg?alt=media&token=4bd27f17-44d6-4093-8399-7a8a7257fc09",
+      "MaVC": "VC02",
+      "MoTa": "Áp dụng cho hóa đơn",
+      "TenVC": "Hóa đơn từ",
+      "ThoiHan": 30
+    },
+    "Voucher03": {
+      "GiaToiDa": 1000000,
+      "GiamGia": "15%",
+      "Hinh": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/VOUCHER%2FDiscount%20Voucher%20Ticket%2020%25.jpg?alt=media&token=ad9d6298-e98d-46ca-8605-d1f65971d8d4",
+      "MaVC": "VC03",
+      "MoTa": "Áp dụng cho hóa đơn",
+      "TenVC": "Hóa đơn từ",
+      "ThoiHan": 30
+    },
+    "Voucher04": {
+      "GiaToiDa": 2000000,
+      "GiamGia": "20%",
+      "Hinh": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/VOUCHER%2FDiscount%20Voucher%20Ticket%2030%25.jpg?alt=media&token=749d471a-760f-40b9-8434-91e998c10855",
+      "MaVC": "VC04",
+      "MoTa": "Áp dụng cho hóa đơn",
+      "TenVC": "Hóa đơn từ",
+      "ThoiHan": 30
+    }
+  },
+  "categories": {
+    "category01": {
+      "Id": "CAT01",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR2%2Fa21.jpg?alt=media&token=9967421b-89bf-4a24-9d19-0cb25fb7d853",
+      "Name": "Phòng VIP"
+    },
+    "category02": {
+      "Id": "CAT02",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR11%2Fa111.jpg?alt=media&token=f1e82c48-d2ea-4dca-a2d0-118b2ce6c698",
+      "Name": "Phòng đôi"
+    },
+    "category03": {
+      "Id": "CAT03",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Room%2FR4%2Fa41.jpg?alt=media&token=34a31074-c3ba-4f6f-83c1-5a1220dbd850",
+      "Name": "Family room"
+    }
+  },
+  "locations": {
+    "location01": {
+      "Id": "LOC01",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Address%2Fhcm.jpg?alt=media&token=85c894c5-5aa6-4b78-9d67-5f530754801c",
+      "Name": "TP Hồ Chí Minh"
+    },
+    "location02": {
+      "Id": "LOC02",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Address%2Fhn.jpg?alt=media&token=aec405d6-465d-41e5-a28f-70014d2614e8",
+      "Name": "Hà nội"
+    },
+    "location03": {
+      "Id": "LOC03",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Address%2Fdn.jpg?alt=media&token=7ed13725-d810-49b3-b70b-4c4a7b4ca77d",
+      "Name": "Đà Nẵng"
+    },
+    "location04": {
+      "Id": "LOC04",
+      "Image": "https://firebasestorage.googleapis.com/v0/b/roomzy-cbeb4.appspot.com/o/Address%2Fnt.jpg?alt=media&token=b40f0112-4d94-4426-856e-6aeceb3856e8",
+      "Name": "TP Vũng Tàu"
+    }
+  }
+}
