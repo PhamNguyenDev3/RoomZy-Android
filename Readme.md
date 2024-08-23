@@ -43,11 +43,7 @@
 ## Hình Ảnh Minh Họa
 
 ### Giao diện Đăng nhập
-
-![Login Screen]()
 <img src="https://github.com/PhamNguyenDev3/RoomZy-Android/blob/master/image/DangNhap.png" alt="Hotel Booking App" width="600"/>
-
-
 
 ### Giao diện Danh sách Phòng
 <img src="https://github.com/PhamNguyenDev3/RoomZy-Android/blob/master/image/ChiTietPhong.png" alt="Hotel Booking App" width="600"/>
