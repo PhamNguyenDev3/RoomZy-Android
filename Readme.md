@@ -1,6 +1,6 @@
 # Ứng dụng Đặt Phòng Khách Sạn
 
-![Hotel Booking App](https://github.com/PhamNguyenDev3/RoomZy-Android/blob/master/image/Home1.png)
+<img src="[./image/Home1.png](https://github.com/PhamNguyenDev3/RoomZy-Android/blob/master/image/Home1.png)" alt="Hotel Booking App" width="600"/>
 
 Đây là một ứng dụng đặt phòng khách sạn trên nền tảng Android với backend sử dụng Flask Web API và firebase để lưu trữ dữ liệu. Ứng dụng cho phép người dùng duyệt, đặt phòng và quản lý các đặt phòng của mình một cách tiện lợi.
 
